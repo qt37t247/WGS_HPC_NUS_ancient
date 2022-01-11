@@ -1,0 +1,6 @@
+{
+    "input": "*_{1,2}.fq.gz",
+    "fasta": "Leiothrix_genomic.fna",
+    "email": "dbstq@nus.edu.sg",
+    "bt2n": 0
+}
