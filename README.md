@@ -33,6 +33,8 @@ For the "-profile", enter "singularity" as we are currently use NUS-HPC's singul
 
 Once submit all the parameters, you will enter a new page. Create a blank file in your working directory named "nf-params.json" and copy the code in the text box under "Launching with no internet and without nf-core/tools" section.
 
+!!Sometime they will automatically give quote ("") around numeric values. Please delete the quote to let the program read the value as numerics.
+
 Finally submit the pipeline to NUS-HPC with the shell file (see example "EAGER.sh").
 
 
